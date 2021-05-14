@@ -1,2 +1,8 @@
 torch
 numpy
+scipy
+sympy
+torch
+        "symengine>=0.4",
+        "jitcdde==1.4",
+        "jitcxde_common==1.4.1",
